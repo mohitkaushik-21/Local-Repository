@@ -1,3 +1,4 @@
-# This is my first Repository in Github.
+#Readme.md  
+This is my first Repository in Github.
 <br>
-# Author Name - Mohit Kaushik
+Author Name - Mohit Kaushik
